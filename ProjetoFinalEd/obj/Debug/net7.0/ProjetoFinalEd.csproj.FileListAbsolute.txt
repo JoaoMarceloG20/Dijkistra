@@ -1,0 +1,15 @@
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/bin/Debug/net7.0/ProjetoFinalEd
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/bin/Debug/net7.0/ProjetoFinalEd.deps.json
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/bin/Debug/net7.0/ProjetoFinalEd.runtimeconfig.json
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/bin/Debug/net7.0/ProjetoFinalEd.dll
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/bin/Debug/net7.0/ProjetoFinalEd.pdb
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.csproj.AssemblyReference.cache
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.AssemblyInfoInputs.cache
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.AssemblyInfo.cs
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.csproj.CoreCompileInputs.cache
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.dll
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/refint/ProjetoFinalEd.dll
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.pdb
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ProjetoFinalEd.genruntimeconfig.cache
+/Users/joaogoncalves/Projects/ProjetoFinalEd/ProjetoFinalEd/obj/Debug/net7.0/ref/ProjetoFinalEd.dll
