@@ -11,6 +11,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y python3-dev gcc
+      - name: Install aiohttp first
+        run: pip install --no-cache-dir --upgrade pip setuptools wheel aiohttp
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
