@@ -11,18 +11,16 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Install system dependencies
-        run: sudo apt-get update && sudo apt-get install -y python3-dev gcc
-      - name: Install aiohttp first
-        run: pip install --no-cache-dir --upgrade pip setuptools wheel aiohttp
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-      - name: Install github
-        run: pip install github
-      - name: Install crewai
-        run: pip install crewai
+          python-version: "3.11" # Use 3.11 to avoid aiohttp build errors
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install aiohttp==3.8.5  # Known working version
+          pip install github crewai
       - name: Update documentation
         run: python automation.py
       - name: Commit changes
