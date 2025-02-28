@@ -20,7 +20,7 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install aiohttp==3.8.5  # Known working version
-          pip install github crewai
+          pip install github crewai==0.35.4
       - name: Update documentation
         run: python automation.py
       - name: Commit changes
